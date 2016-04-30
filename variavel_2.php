@@ -1,10 +1,15 @@
 <?php
 // Uso de variaveis em php
-$soma;
-$numero1 = 15;
-$numero2 = 5;
+$i=1;
+$frase = "Eu amo muito Ela!!!<br>";
 
-    $soma = $numero1 + $numero2;
-    echo "$soma";
+$nomes[4];
+
+$nomes[1] = "Ola Mundo<br><br>";
+
+
+   echo $i;
+   echo $nomes[1];
+   echo $frase;
      
 ?>
